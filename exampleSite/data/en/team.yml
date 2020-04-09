@@ -6,11 +6,11 @@ team:
   - name: Márleson Ferreira
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: Proprietário
-    content: Matemático e pesquisador
+    designation: Instrutor chefe
+    content: Faixa preta (1º dan) pela JKS
     social:
     - icon: ti-facebook
-      link: "#"
+      link: "#http://facebook.com/marleson.ferreira/"
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
