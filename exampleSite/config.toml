@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Nakayama Karate Clube"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
@@ -19,7 +19,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "Sobre nós"
 weight = 1
 [[menu.main]]
 URL = "services"
@@ -31,11 +31,11 @@ name = "Portfolio"
 weight = 3
 [[menu.main]]
 URL = "team"
-name = "Team"
+name = "Equipe"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Preços"
 weight = 5
 [[menu.main]]
 URL = "blog"
@@ -43,7 +43,7 @@ name = "Blog"
 weight = 6
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contato"
 weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
