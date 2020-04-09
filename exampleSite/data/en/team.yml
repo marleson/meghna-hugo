@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Nossa Equipe
   team_member:
   - name: Márleson Ferreira
     image_webp: images/team/team-1.webp
